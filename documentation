@@ -1,0 +1,7 @@
+CSV (dirty) 
+  ↓
+pandas → Clean → Fix Encoding → Parse Enrollments
+  ↓
+SQLAlchemy Engine
+  ↓
+PostgreSQL Table → courses
